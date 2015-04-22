@@ -2,6 +2,7 @@
  - [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/#README)
  - [React](https://facebook.github.io/react/docs/getting-started.html)
   - [Awesome React libraries](https://github.com/enaqx/awesome-react)
+  - [Difference between props and stat](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
  - [React Native](http://facebook.github.io/react-native/)
  - [Flux](https://facebook.github.io/flux/docs/overview.html#content)
  - [SystemJs](https://github.com/systemjs/systemjs)

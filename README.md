@@ -16,6 +16,7 @@
  - [Learning CSS Layout](http://zh.learnlayout.com/toc.html)
  - [Less](http://www.bootcss.com/p/lesscss/)
  - [About flex](http://bocoup.com/weblog/dive-into-flexbox/) __Translate article somehow__
+ - [CSS 参考手册](http://css.doyoe.com/)
 
 # iOS
  - [Awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)

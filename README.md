@@ -17,6 +17,7 @@
  - [Less](http://www.bootcss.com/p/lesscss/)
  - [About flex](http://bocoup.com/weblog/dive-into-flexbox/) __Translate article somehow__
  - [CSS 参考手册](http://css.doyoe.com/)
+ - [Some css awesome sample](https://github.com/hakimel/css)
 
 # iOS
  - [Awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)

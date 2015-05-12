@@ -5,7 +5,7 @@
   - [Difference between props and stat](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
   - [ReFlux](https://github.com/spoike/refluxjs) Improve the Flux stores
  - [React Native](http://facebook.github.io/react-native/)
- - [Flux](https://facebook.github.io/flux/docs/overview.html#content)
+ - [Flux](https://facebook.github.io/flux/docs/overview.html)
  - [SystemJs](https://github.com/systemjs/systemjs)
  - [ES6 tools](https://github.com/addyosmani/es6-tools)
  - [Lunr- Front-end full text search](https://github.com/olivernn/lunr.js)

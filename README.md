@@ -10,7 +10,7 @@
  - [ES6 tools](https://github.com/addyosmani/es6-tools)
  - [Lunr- Front-end full text search](https://github.com/olivernn/lunr.js)
  - [ES5 Javascript Code style](https://github.com/adamlu/javascript-style-guide)
- 
+ - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
 
 # CSS
  - [Learning CSS Layout](http://zh.learnlayout.com/toc.html)

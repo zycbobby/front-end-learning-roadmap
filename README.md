@@ -22,6 +22,9 @@
 # HTML5
  - [Tutorial towards HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
+# Mobile
+ - [mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)
+
 # iOS
  - [Awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
  - [Awesome-ios-projects](https://github.com/vsouza/awesome-ios)

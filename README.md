@@ -11,6 +11,8 @@
  - [Lunr- Front-end full text search](https://github.com/olivernn/lunr.js)
  - [ES5 Javascript Code style](https://github.com/adamlu/javascript-style-guide)
  - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+ - [Design Pattern](https://github.com/tcorral/Design-Patterns-in-Javascript)
+ 
 
 # CSS
  - [Learning CSS Layout](http://zh.learnlayout.com/toc.html)

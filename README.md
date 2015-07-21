@@ -13,6 +13,10 @@
  - [ES5 Javascript Code style](https://github.com/adamlu/javascript-style-guide)
  - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
  - [Design Pattern](https://github.com/addyosmani/essential-js-design-patterns)
+ - [Angular2](https://github.com/angular/angular)
+  - [Angular2-Education](https://github.com/timjacobi/angular2-education)
+  - [Angular2-seed](https://github.com/mgechev/angular2-seed)
+  - [Quick start](https://angular.io/docs/js/latest/quickstart.html)
  
 
 # CSS

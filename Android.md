@@ -10,3 +10,7 @@
 -
 # Android Studio Plugins
  - [Generator for components](https://github.com/avast/android-butterknife-zelezny)
+ - 
+ 
+# Boilerplate(Best Practice)
+ - [Ribot](https://github.com/ribot/android-boilerplate)

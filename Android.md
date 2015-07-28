@@ -25,3 +25,4 @@
 
 # Boilerplate(Best Practice)
  - [Ribot](https://github.com/ribot/android-boilerplate)
+ - [Best Practice](https://github.com/futurice/android-best-practices)

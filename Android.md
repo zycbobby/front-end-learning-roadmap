@@ -16,6 +16,8 @@
 - [OwnCloud](https://github.com/owncloud/android)
 - [Todo Lite](https://github.com/couchbaselabs/ToDoLite-Android)
   It is a good app, but it cannot delete list. You can improve it then make it better
+- [Note](https://github.com/spacecowboy/NotePad)
+
 
 # Android Studio Plugins
  - [Generator for components](https://github.com/avast/android-butterknife-zelezny)

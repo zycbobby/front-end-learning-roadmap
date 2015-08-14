@@ -24,6 +24,7 @@
  - [Learning CSS Layout](http://zh.learnlayout.com/toc.html)
  - [Less](http://www.bootcss.com/p/lesscss/)
  - [About flex](http://bocoup.com/weblog/dive-into-flexbox/) __Translate article somehow__
+ - [中文的关于FlexBox](http://www.w3cplus.com/css3/a-guide-to-flexbox.html)
  - [CSS 参考手册](http://css.doyoe.com/)
  - [Some css awesome sample](https://github.com/hakimel/css)
 

@@ -1,7 +1,7 @@
 # Learning Resource
 
  - [Official WebSite](https://golang.org/)
-
+  - [Effective Go 中文版](http://www.hellogcc.org/effective_go.html)
  
  
 

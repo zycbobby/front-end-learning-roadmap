@@ -2,6 +2,11 @@
 
  - [Official WebSite](https://golang.org/)
   - [Effective Go 中文版](http://www.hellogcc.org/effective_go.html)
+  - 
+  
+# Tools
+ - Find tools in [awesome-go](https://github.com/avelino/awesome-go)
+ - Package management(still in discussing, but GO15VENDOREXPERIMENT is available now)
  
  
 

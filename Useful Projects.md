@@ -1,7 +1,7 @@
 
 # Products
- - letschat[https://github.com/sdelements/lets-chat] chat
- - hexo[https://github.com/hexojs/hexo] blog system
+ - [letschat](https://github.com/sdelements/lets-chat) chat
+ - [hexo](https://github.com/hexojs/hexo) blog system
 
 # Workflow
  - [process-engine](https://github.com/oliverzy/process-engine.js) in nodejs

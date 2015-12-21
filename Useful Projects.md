@@ -16,6 +16,7 @@
 ## HTML5 Game Engine
  - [playcanvas](https://github.com/playcanvas/engine) html5 standard
  - [Phazer](https://github.com/photonstorm/phaser) Javascript game engine
+ - https://github.com/showcases/javascript-game-engines very intresting
 
 # Articles
  - [CSS](https://github.com/AllThingsSmitty/css-protips) css pro tips

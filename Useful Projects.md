@@ -32,4 +32,5 @@
  
 
 ## Test
- - [Mocha](https://github.com/mochajs/mocha)
+ - [Mocha](https://github.com/mochajs/mocha) 
+ - [sqlmap](https://github.com/sqlmapproject/sqlmap) SQL Injection testing tool

@@ -17,6 +17,7 @@
   - [Angular2-Education](https://github.com/timjacobi/angular2-education)
   - [Angular2-seed](https://github.com/mgechev/angular2-seed)
   - [Quick start](https://angular.io/docs/js/latest/quickstart.html)
+ - [Angular-Material](https://github.com/angular/material)
  - [Animation](https://github.com/greensock/GreenSock-JS)
  
 

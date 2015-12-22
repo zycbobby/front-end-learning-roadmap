@@ -9,6 +9,10 @@
  - https://github.com/expressjs/multer
  - https://github.com/expressjs/csurf specify middleware for single route
 
+# ORM
+ - Sequelize
+ - Sequelize-auto sequelize-cli 
+
 # Workflow
  - [process-engine](https://github.com/oliverzy/process-engine.js) in nodejs
 

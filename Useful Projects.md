@@ -8,7 +8,7 @@
  - https://github.com/expressjs/express-paginate
  - https://github.com/expressjs/multer
  - https://github.com/expressjs/csurf specify middleware for single route
- - 
+ - https://github.com/jaredhanson/passport login plugin
  
 # Rest
  - [laravel](https://github.com/laravel/laravel)

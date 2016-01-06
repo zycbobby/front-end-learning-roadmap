@@ -3,6 +3,9 @@
  - [letschat](https://github.com/sdelements/lets-chat) chat
  - [hexo](https://github.com/hexojs/hexo) blog system
 
+# Yeoman Generator
+ - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)
+
 # Express plugin
  - https://github.com/expressjs/vhost
  - https://github.com/expressjs/express-paginate

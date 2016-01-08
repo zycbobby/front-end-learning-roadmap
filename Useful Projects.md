@@ -30,6 +30,7 @@
  - https://github.com/showcases/javascript-game-engines very intresting
  - https://github.com/cykod/Quintus
  - https://github.com/turbulenz/turbulenz_engine html5 mobile game
+ - http://phaser.io/ from https://github.com/showcases/javascript-game-engines
 
 # Articles
  - [CSS](https://github.com/AllThingsSmitty/css-protips) css pro tips

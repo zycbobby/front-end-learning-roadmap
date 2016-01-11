@@ -21,6 +21,7 @@
  - [Angular-Material-Seed](https://github.com/angular/material-start)
  - [Animation](https://github.com/greensock/GreenSock-JS)
  - [HeadJS](http://headjs.com/)
+ - https://github.com/rackt/redux
  
 
 # CSS

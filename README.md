@@ -22,6 +22,7 @@
  - [Animation](https://github.com/greensock/GreenSock-JS)
  - [HeadJS](http://headjs.com/)
  - https://github.com/rackt/redux
+ - https://github.com/gianarb/awesome-angularjs
  
 
 # CSS

@@ -63,3 +63,4 @@
  
 # Architecture Boilerplate
  - [EasySOA](https://github.com/easysoa/EasySOA)
+ - [seneca](https://github.com/senecajs/seneca)

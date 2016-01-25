@@ -2,6 +2,8 @@
 # Products
  - [letschat](https://github.com/sdelements/lets-chat) chat
  - [hexo](https://github.com/hexojs/hexo) blog system
+ - [nativefier](https://github.com/jiahaog/nativefier) Desktop APP
+ 
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

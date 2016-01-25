@@ -40,6 +40,7 @@
 
 # Articles
  - [CSS](https://github.com/AllThingsSmitty/css-protips) css pro tips
+ - [awesome list](https://github.com/sindresorhus/awesome)
  - Need to find some blogs
 
 # DevOps

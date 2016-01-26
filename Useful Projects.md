@@ -3,6 +3,7 @@
  - [letschat](https://github.com/sdelements/lets-chat) chat
  - [hexo](https://github.com/hexojs/hexo) blog system
  - [nativefier](https://github.com/jiahaog/nativefier) Make Desktop APP
+ - [React Desktop/React Native](https://github.com/gabrielbull/react-desktop)
  
 
 # Yeoman Generator

@@ -29,6 +29,7 @@
 
 # Presentation
  - https://github.com/hakimel/reveal.js
+ - https://github.com/alvarotrigo/fullPage.js 
 
 # Game
 ## HTML5 Game Engine

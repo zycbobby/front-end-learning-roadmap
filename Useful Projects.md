@@ -69,3 +69,4 @@
 # Architecture Boilerplate
  - [EasySOA](https://github.com/easysoa/EasySOA)
  - [seneca](https://github.com/senecajs/seneca)
+ - https://github.com/micro/micro micro service toolkit, interesting

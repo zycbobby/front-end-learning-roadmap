@@ -19,6 +19,7 @@
   - [Quick start](https://angular.io/docs/js/latest/quickstart.html)
  - [Angular-Material](https://github.com/angular/material)
  - [Angular-Material-Seed](https://github.com/angular/material-start)
+ - [Angular File Upload](https://github.com/nervgh/angular-file-upload)
  - [Animation](https://github.com/greensock/GreenSock-JS)
  - [HeadJS](http://headjs.com/)
  - https://github.com/rackt/redux

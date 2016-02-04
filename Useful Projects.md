@@ -4,7 +4,7 @@
  - [hexo](https://github.com/hexojs/hexo) blog system
  - [nativefier](https://github.com/jiahaog/nativefier) Make Desktop APP
  - [React Desktop/React Native](https://github.com/gabrielbull/react-desktop)
- 
+ - [pnpm](https://github.com/rstacruz/pnpm)
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

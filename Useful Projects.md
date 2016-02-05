@@ -15,6 +15,11 @@
  - https://github.com/expressjs/multer
  - https://github.com/expressjs/csurf specify middleware for single route
  - https://github.com/jaredhanson/passport login plugin
+
+# koa middleware
+ - koa-validate - https://github.com/RocksonZeta/koa-validate - parameter validate middleware for koa
+ - koa-scheme - https://github.com/nswbmw/koa-scheme - parameter validation middleware for koa
+
  
 # Rest
  - [laravel](https://github.com/laravel/laravel)

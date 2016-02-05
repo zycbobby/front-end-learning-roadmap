@@ -17,6 +17,7 @@
  - https://github.com/jaredhanson/passport login plugin
 
 # koa middleware
+ - list http://koajs.in/doc/Middleware/middlewares/#parameter-validation
  - koa-validate - https://github.com/RocksonZeta/koa-validate - parameter validate middleware for koa
  - koa-scheme - https://github.com/nswbmw/koa-scheme - parameter validation middleware for koa
 

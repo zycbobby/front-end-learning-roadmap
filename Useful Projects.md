@@ -77,3 +77,4 @@
  - [seneca](https://github.com/senecajs/seneca)
  - https://github.com/micro/micro micro service toolkit, interesting
  - https://github.com/koding/kite microservice framework
+ - https://github.com/goadesign/goa design-based http microservice framework

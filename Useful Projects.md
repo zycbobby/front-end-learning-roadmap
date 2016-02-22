@@ -79,5 +79,6 @@
  - https://github.com/micro/micro micro service toolkit, interesting
  - https://github.com/koding/kite microservice framework
  - https://github.com/goadesign/goa design-based http microservice framework
+ - https://github.com/Mashape/kong kong, a new api gateway compatible with openresty and nginx
 
 

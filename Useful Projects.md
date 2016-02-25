@@ -5,6 +5,8 @@
  - [nativefier](https://github.com/jiahaog/nativefier) Make Desktop APP
  - [React Desktop/React Native](https://github.com/gabrielbull/react-desktop)
  - [pnpm](https://github.com/rstacruz/pnpm)
+ - https://github.com/dthree/cash Cross platform linux terminal
+ - https://github.com/santinic/how2 how2 stackoverflow in terminal
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

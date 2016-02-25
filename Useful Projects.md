@@ -86,3 +86,4 @@
  - https://github.com/clofresh/mysql-proxy-cache Idea was good, code was simple, but cannot be run
  - https://github.com/flike/kingshard Production ready mysql sharding tool
  - https://github.com/rfink/sequelize-redis-cache 
+ - https://github.com/stephan-hof/mysql-proxy-in-memory-lru-cache Provided in layer(but it cannot be shared among clients)

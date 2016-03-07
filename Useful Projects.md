@@ -89,3 +89,7 @@
  - https://github.com/flike/kingshard Production ready mysql sharding tool
  - https://github.com/rfink/sequelize-redis-cache 
  - https://github.com/stephan-hof/mysql-proxy-in-memory-lru-cache Provided in layer(but it cannot be shared among clients)
+
+
+# Desktopize 
+ - https://github.com/atom/electron sample https://github.com/geeeeeeeeek/electronic-wechat

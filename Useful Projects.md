@@ -7,6 +7,7 @@
  - [pnpm](https://github.com/rstacruz/pnpm)
  - https://github.com/dthree/cash Cross platform linux terminal
  - https://github.com/santinic/how2 how2 stackoverflow in terminal
+ - https://github.com/alibaba/anyproxy
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

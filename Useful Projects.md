@@ -12,6 +12,9 @@
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)
 
+# Libs
+ - [Redis-lock](https://github.com/errorception/redis-lock) Implementation of redis lock
+
 # Express plugin
  - https://github.com/expressjs/vhost
  - https://github.com/expressjs/express-paginate

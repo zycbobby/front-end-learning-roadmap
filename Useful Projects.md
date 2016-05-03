@@ -8,6 +8,8 @@
  - https://github.com/dthree/cash Cross platform linux terminal
  - https://github.com/santinic/how2 how2 stackoverflow in terminal
  - https://github.com/alibaba/anyproxy
+ - https://github.com/firehol/netdata awesome system monitor
+
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

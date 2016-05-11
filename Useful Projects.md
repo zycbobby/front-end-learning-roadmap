@@ -9,6 +9,7 @@
  - https://github.com/santinic/how2 how2 stackoverflow in terminal
  - https://github.com/alibaba/anyproxy
  - https://github.com/firehol/netdata awesome system monitor
+ - GOR replaying the whole network flow
 
 
 # Yeoman Generator
@@ -88,7 +89,7 @@
  - https://github.com/koding/kite microservice framework
  - https://github.com/goadesign/goa design-based http microservice framework
  - https://github.com/Mashape/kong kong, a new api gateway compatible with openresty and nginx
-
+ - https://github.com/Mostafa-Samir/klyng A message-passing distributed computing framework for node.js
 
 # Cache Solution
  - https://github.com/clofresh/mysql-proxy-cache Idea was good, code was simple, but cannot be run

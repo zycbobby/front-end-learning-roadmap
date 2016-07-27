@@ -10,6 +10,7 @@
  - https://github.com/alibaba/anyproxy
  - https://github.com/firehol/netdata awesome system monitor
  - GOR replaying the whole network flow
+ - https://github.com/dmonllao/vim-IDE interesting vim usage
 
 
 # Yeoman Generator

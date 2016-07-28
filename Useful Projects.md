@@ -11,7 +11,10 @@
  - https://github.com/firehol/netdata awesome system monitor
  - GOR replaying the whole network flow
  - https://github.com/dmonllao/vim-IDE interesting vim usage
-
+ - 
+ 
+# awesomelist
+ - https://github.com/jaywcjlove/awesome-mac
 
 # Yeoman Generator
  - [Angular-Express-Sequelize](https://github.com/rayokota/generator-angular-express-sequelize)

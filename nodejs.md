@@ -1,4 +1,6 @@
 # Libs
+ - ES6/ES7
+  - https://github.com/normalize/mz
  - Workflow
   - [process-engine](https://github.com/oliverzy/process-engine.js)
 

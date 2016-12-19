@@ -3,8 +3,8 @@
   - https://github.com/normalize/mz
  - Workflow
   - [process-engine](https://github.com/oliverzy/process-engine.js)
-
-
+ - Nodejs多线程真的
+  - https://github.com/xk/node-threads-a-gogo
 # Quality Control
 
 ## Article
